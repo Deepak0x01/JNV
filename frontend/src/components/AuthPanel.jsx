@@ -8,12 +8,12 @@ export default function AuthPanel() {
           <i className="bi bi-house-door-fill" />
         </span>
         <div>
-          <div className="auth-image-title">Hostel Management System</div>
+          <div className="auth-image-title">HostelHub</div>
         </div>
       </div>
       <div className="auth-image-tagline">Safe Stay &middot; Better Tomorrow</div>
       <div className="auth-image-art">
-        <img src={authIllustration} alt="Hostel Management System" className="auth-image-art-photo" />
+        <img src={authIllustration} alt="HostelHub" className="auth-image-art-photo" />
       </div>
     </div>
   );
