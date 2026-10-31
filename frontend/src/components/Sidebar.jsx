@@ -29,7 +29,7 @@ export default function Sidebar() {
         <span className="brand-icon">
           <i className="bi bi-house-door-fill" />
         </span>
-        Hostel Management System
+       HostelHub
       </div>
       <nav className="sidebar-nav">
         {links.map((link) => (
